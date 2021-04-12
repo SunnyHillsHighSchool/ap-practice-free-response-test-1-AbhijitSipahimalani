@@ -13,11 +13,18 @@ public class Delimiters
 
 	public ArrayList<String> getDelimitersList(String[] tokens)
 	{
+    ArrayList = new ArrayList(delimiters)
 		return null;
 	}
 
 	public boolean isBalanced(ArrayList<String> delimiters)
-	{ 
-		return false;
+	{
+    boolean which = null;
+    if(DelimitersList / 2 = 0){
+    return true;
+  }
+    else if(DelimitersList /2 != 0){
+    return false; 
+    }
 	}
 }
